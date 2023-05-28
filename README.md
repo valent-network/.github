@@ -1,1 +1,1 @@
-# Valent Network (currently recar.io)
+# Public README for Valent Network Github Organization
