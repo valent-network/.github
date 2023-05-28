@@ -1,1 +1,1 @@
-# .github
+# Valent Network (currently recar.io)
